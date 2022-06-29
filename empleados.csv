@@ -1,0 +1,6 @@
+id,nombre,direccion,telefono,fecha_nac,categoria,estudios
+1,Pepe,C/ Velazquez 1,91123456,01/01/1980,peón,EGB
+2,Luis,C/ Velazquez 2,91123456,01/01/1981,encargado,EGB
+3,Carlos,C/ Velazquez 3,91123456,01/01/1982,arquitecto,Arquitecto
+4,Antonio,C/ Velazquez 4,91123456,01/01/1983,peón,EGB
+5,José,C/ Velazquez 5,91123456,01/01/1984,peón,EGB
